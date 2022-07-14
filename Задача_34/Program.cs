@@ -39,7 +39,6 @@ int GetEvenNumbers(int[] arr)
 
 Console.WriteLine("Введите размерность массива");
 int dimension = int.Parse(Console.ReadLine());
-
 int[] array = GetArray(dimension);
 Console.WriteLine();
 PrintArray(array);

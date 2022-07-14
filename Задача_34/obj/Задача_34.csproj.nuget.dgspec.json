@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GB\\Home_work_prog_5\\Задача_34\\Задача_34.csproj": {}
+    "D:\\GB\\Home_work_prog_5\\задача_34\\Задача_34.csproj": {}
   },
   "projects": {
-    "D:\\GB\\Home_work_prog_5\\Задача_34\\Задача_34.csproj": {
+    "D:\\GB\\Home_work_prog_5\\задача_34\\Задача_34.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GB\\Home_work_prog_5\\Задача_34\\Задача_34.csproj",
+        "projectUniqueName": "D:\\GB\\Home_work_prog_5\\задача_34\\Задача_34.csproj",
         "projectName": "Задача_34",
-        "projectPath": "D:\\GB\\Home_work_prog_5\\Задача_34\\Задача_34.csproj",
+        "projectPath": "D:\\GB\\Home_work_prog_5\\задача_34\\Задача_34.csproj",
         "packagesPath": "C:\\Users\\urga\\.nuget\\packages\\",
-        "outputPath": "D:\\GB\\Home_work_prog_5\\Задача_34\\obj\\",
+        "outputPath": "D:\\GB\\Home_work_prog_5\\задача_34\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\urga\\AppData\\Roaming\\NuGet\\NuGet.Config"
